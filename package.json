@@ -1,0 +1,78 @@
+{
+  "name": "nodejs_file_structure",
+  "version": "1.0.2",
+  "description": "Generates a file structure that organizes your project for Express",
+  "homepage": "https://github.com/cpballresearch/nodejs_file_structure",
+  "author": {
+    "name": "PrajwalChNayak",
+    "email": "102309883+PrajwalChNayak@users.noreply.github.com"
+  },
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    "file-structure",
+    "project-setup",
+    "express",
+    "nodejs"
+  ],
+  "bin": {
+    "generate-structure": "bin/cli.js"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "prettier": "^1.19.1",
+    "husky": "^3.0.9",
+    "lint-staged": "^9.4.3",
+    "eslint-config-prettier": "^6.6.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-config-xo": "^0.27.2",
+    "jest": "^26.1.0"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">= 4.0.0"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ],
+    "*.json": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "eslintConfig": {
+    "extends": [
+      "xo",
+      "prettier"
+    ],
+    "env": {
+      "jest": true,
+      "node": true
+    },
+    "rules": {
+      "prettier/prettier": "error"
+    },
+    "plugins": [
+      "prettier"
+    ]
+  },
+  "scripts": {
+    "pretest": "eslint .",
+    "test": "jest"
+  },
+  "repository": "https://github.com/cpballresearch/nodejs_file_structure.git",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "license": "Apache-2.0"
+}
