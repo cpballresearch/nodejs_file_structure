@@ -2,6 +2,4 @@
 
 const { generateStructure } = require("../lib");
 
-
-
 generateStructure();

@@ -1,6 +1,6 @@
 {
   "name": "nodejs_file_structure",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Generates a file structure that organizes your project for Express",
   "homepage": "https://github.com/cpballresearch/nodejs_file_structure",
   "author": {

@@ -1,18 +1,18 @@
 # nodejs_file_structure [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> This nodejs_file_structure generates a file structure that organizes your project for Express
+> This nodejs_file_structure generates a file structure that organizes your project for Express To generate a Node.js project structure that includes MinIO, Express, ORM tools, and more, simply install the nodejs_file_structure package globally:
+
+
 
 ## Installation
 
 ```sh
-$ npm install --save nodejs_file_structure
+$ npm install -g nodejs_file_structure
 ```
-
+>Once installed, you can generate the project structure using the following command:
 ## Usage
 
 ```js
-const nodejsFileStructure = require('nodejs_file_structure');
-
-nodejsFileStructure('Rainbow');
+generate-structure
 ```
 ## License
 
