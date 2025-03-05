@@ -73,6 +73,8 @@ Simply run the command and follow the interactive prompts:
 <div align="center">
 
 ```bash
+generate-structure
+OR 
 nfs
 ```
 
