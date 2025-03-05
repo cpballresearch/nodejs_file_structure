@@ -20,7 +20,8 @@
     "nodejs"
   ],
   "bin": {
-    "generate-structure": "bin/cli.js"
+    "generate-structure": "bin/cli.js",
+    "nfs": "bin/cli.js"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
@@ -84,6 +85,10 @@
     "boxen": "^7.1.1",
     "figlet": "^1.6.0",
     "gradient-string": "^2.0.2",
-    "ora": "^7.0.1"
+    "ora": "^7.0.1",
+    "cli-spinners": "^2.9.0",
+    "cli-cursor": "^4.0.0",
+    "term-size": "^3.0.2",
+    "cli-table3": "^0.6.3"
   }
 }
