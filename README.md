@@ -78,6 +78,7 @@ generate-structure
 
 </div>
 
+## OR 
 
 <div align="center">
 
