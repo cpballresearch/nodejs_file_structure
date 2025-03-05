@@ -74,7 +74,14 @@ Simply run the command and follow the interactive prompts:
 
 ```bash
 generate-structure
-OR 
+```
+
+</div>
+
+
+<div align="center">
+
+```bash
 nfs
 ```
 
