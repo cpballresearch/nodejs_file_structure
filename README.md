@@ -6,9 +6,22 @@
 [![Build Status][travis-image]][travis-url] 
 [![Dependency Status][daviddm-image]][daviddm-url]
 
-<img src="https://via.placeholder.com/800x200.png?text=NFS+-+Modern+Project+Structures+in+Seconds" alt="NFS Banner" width="100%">
+```
+███╗   ██╗███████╗███████╗
+████╗  ██║██╔════╝██╔════╝
+██╔██╗ ██║█████╗  ███████╗
+██║╚██╗██║██╔══╝  ╚════██║
+██║ ╚████║██║     ███████║
+╚═╝  ╚═══╝╚═╝     ╚══════╝
+                           
+╭───────────────────────────────────────────────────────╮
+│                                                       │
+│   ✨ Create modern project structures in seconds ✨   │
+│                                                       │
+╰───────────────────────────────────────────────────────╯
+```
 
-### ✨ Create modern project structures in seconds ✨
+<img src="https://via.placeholder.com/800x200.png?text=NFS+-+Modern+Project+Structures+in+Seconds" alt="NFS Banner" width="100%">
 
 </div>
 
@@ -55,6 +68,12 @@ nfs
 ```
 
 <div align="center">
+  <pre>
+? 📦 Which project template do you want to use? (Use arrow keys)
+❯ Express - Node.js web framework
+  React - UI library for web apps
+  React Native - Mobile app framework
+  </pre>
   <img src="https://via.placeholder.com/600x300.png?text=NFS+Command+Line+Interface" alt="NFS CLI Demo" width="80%">
 </div>
 
@@ -194,70 +213,19 @@ To get started:
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
+[daviddm-url]: https://david-dm.org/PrajwalChNayak/nodejs_file_structure
+[daviddm-image]: https://david-dm.org/PrajwalChNayak/nodejs_file_structure.svg?theme=shields.io
+[travis-url]: https://travis-ci.com/PrajwalChNayak/nodejs_file_structure
+[travis-image]: https://travis-ci.com/PrajwalChNayak/nodejs_file_structure.svg?branch=master
+[npm-url]: https://npmjs.org/package/nodejs_file_structure
+[npm-image]: https://badge.fury.io/js/nodejs_file_structure.svg
+</div>
 
+© [PrajwalChNayak](https://github.com/PrajwalChNayak)
 
+## 📄 License
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[daviddm-url]: https://david-dm.org/PrajwalChNayak/nodejs_file_structure[daviddm-image]: https://david-dm.org/PrajwalChNayak/nodejs_file_structure.svg?theme=shields.io[travis-url]: https://travis-ci.com/PrajwalChNayak/nodejs_file_structure[travis-image]: https://travis-ci.com/PrajwalChNayak/nodejs_file_structure.svg?branch=master[npm-url]: https://npmjs.org/package/nodejs_file_structure[npm-image]: https://badge.fury.io/js/nodejs_file_structure.svg</div>© [PrajwalChNayak](https://github.com/PrajwalChNayak)## 📄 License---<a href="https://github.com/PrajwalChNayak/nodejs_file_structure/issues">Request Feature</a><a href="https://github.com/PrajwalChNayak/nodejs_file_structure/issues">Report Bug</a> ·
+<a href="https://github.com/PrajwalChNayak/nodejs_file_structure/issues">Request Feature</a>
+<a href="https://github.com/PrajwalChNayak/nodejs_file_structure/issues">Report Bug</a> ·
