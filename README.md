@@ -97,31 +97,13 @@ nfs
 ### 🔷 Express with Prisma
 Modern Node.js API with type-safe database access
 ```
-└── my-project/
-    ├── src/
-    │   ├── config/
-    │   ├── controllers/
-    │   ├── middleware/
-    │   ├── routes/
-    │   ├── services/
-    │   └── app.js
-    ├── prisma/
-    │   └── schema.prisma
-    └── package.json
+
 ```
 
 ### 🔶 Express with Sequelize
 Traditional Node.js API with robust ORM
 ```
-└── my-project/
-    ├── src/
-    │   ├── config/
-    │   ├── controllers/
-    │   ├── middleware/
-    │   ├── models/
-    │   ├── routes/
-    │   └── app.js
-    └── package.json
+
 ```
 </details>
 
@@ -132,17 +114,6 @@ Traditional Node.js API with robust ORM
 ### 💙 React Web Application
 Well-organized React web application structure
 ```
-└── my-project/
-    ├── public/
-    ├── src/
-    │   ├── assets/
-    │   ├── components/
-    │   ├── contexts/
-    │   ├── hooks/
-    │   ├── pages/
-    │   ├── services/
-    │   └── App.js
-    └── package.json
 ```
 </details>
 
@@ -153,15 +124,6 @@ Well-organized React web application structure
 ### 💜 React Native Mobile Application
 Complete React Native mobile app structure
 ```
-└── my-project/
-    ├── src/
-    │   ├── assets/
-    │   ├── components/
-    │   ├── navigation/
-    │   ├── screens/
-    │   ├── services/
-    │   └── App.js
-    └── package.json
 ```
 </details>
 
